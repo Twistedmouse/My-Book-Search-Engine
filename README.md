@@ -9,6 +9,7 @@ Using the Google books API this application in a simple book search engine using
 https://uwa-book-search-engine.herokuapp.com/
 
 ![](Assets/CPT2209041543-1913x941-min.gif)
+[<i>Please wait gif may be loading</i>]
 
 ## Questions
 
